@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/libsshserver/main.c
+libssh/libssh.h
+-
+libssh/server.h
+-
+libssh/callbacks.h
+-
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+
