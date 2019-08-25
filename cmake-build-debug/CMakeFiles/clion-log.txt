@@ -1,4 +1,4 @@
-/root/Documents/clion-2019.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/CLionProjects/libsshserver
+/root/Documents/clion-2019.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/Documents/LibSSHC2Server
 -- Configuring done
 -- Generating done
--- Build files have been written to: /root/CLionProjects/libsshserver/cmake-build-debug
+-- Build files have been written to: /root/Documents/LibSSHC2Server/cmake-build-debug

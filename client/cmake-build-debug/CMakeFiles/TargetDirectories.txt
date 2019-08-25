@@ -1,0 +1,3 @@
+/root/Documents/LibSSHClient/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/root/Documents/LibSSHClient/cmake-build-debug/CMakeFiles/LibSSHClient.dir
+/root/Documents/LibSSHClient/cmake-build-debug/CMakeFiles/edit_cache.dir

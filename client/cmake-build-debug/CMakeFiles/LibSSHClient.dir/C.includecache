@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/Documents/LibSSHClient/examples_common.h
+libssh/libssh.h
+-
+
+/root/Documents/LibSSHClient/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+sys/select.h
+-
+sys/time.h
+-
+termios.h
+-
+unistd.h
+-
+pty.h
+-
+sys/ioctl.h
+-
+signal.h
+-
+errno.h
+-
+fcntl.h
+-
+libssh/callbacks.h
+-
+libssh/libssh.h
+-
+libssh/sftp.h
+-
+examples_common.h
+/root/Documents/LibSSHClient/examples_common.h
+

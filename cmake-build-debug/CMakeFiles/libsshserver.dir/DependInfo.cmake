@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/root/CLionProjects/libsshserver/main.c" "/root/CLionProjects/libsshserver/cmake-build-debug/CMakeFiles/libsshserver.dir/main.c.o"
+  "/root/Documents/LibSSHC2Server/main.c" "/root/Documents/LibSSHC2Server/cmake-build-debug/CMakeFiles/libsshserver.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

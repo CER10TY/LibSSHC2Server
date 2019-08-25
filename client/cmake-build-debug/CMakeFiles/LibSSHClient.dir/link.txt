@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/LibSSHClient.dir/main.c.o  -o LibSSHClient /usr/lib/x86_64-linux-gnu/libssh.so 

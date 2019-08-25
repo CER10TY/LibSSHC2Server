@@ -148,7 +148,7 @@ int main(int argc, char **argv){
         printf("ssh_handle_key_exchange: %s\n", ssh_get_error(session));
         return 1;
     }
-    ssh_set_auth_methods(session,SSH_AUTH_METHOD_PASSWORD | SSH_AUTH_METHOD_GSSAPI_MIC);
+    ssh_set_auth_methods(session,SSH_AUTH_METHOD_PASSWORD);
     mainloop = ssh_event_new();
     ssh_event_add_session(mainloop, session);
 

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/root/CLionProjects/libsshserver/main.c
+/root/Documents/LibSSHC2Server/main.c
 libssh/libssh.h
 -
 libssh/server.h
